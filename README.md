@@ -42,7 +42,7 @@ git commit -m "Fixed Fibonacci function in [language]"
 ### 5️⃣ Push Your Changes
 Push your branch to GitHub.
 ```sh
-git push origin fix-bug-gitstudenthub-[language]
+git push origin fix-bug-gitstudenthub-[language]```
 
 ### 6️⃣ Create a Pull Request (PR)
 - Go to the *GitHub repository* in your browser.
@@ -55,4 +55,4 @@ git push origin fix-bug-gitstudenthub-[language]
 - The PR should follow the branch naming convention: fix-bug-gitstudenthub-[language].
 - GitHub Actions will check if your code compiles and runs correctly.
 
-       ## 🔥 Good Luck!
+## 🔥 Good Luck!
