@@ -1,6 +1,3 @@
-/**
- * FibonacciChallenge.java
- */
 public class FibonacciChallenge {
     
     public static void main(String[] args) {
