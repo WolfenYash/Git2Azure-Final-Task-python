@@ -1,11 +1,11 @@
 public class FibonacciChallenge {
     
     public static void main(String[] args) {
-        // HINT: Should we allow negative numbers as input?
+        // Fix me: Should we allow negative numbers as input?
         System.out.println("Fibonacci(5) = " + fibonacci(5));
         System.out.println("Fibonacci(10) = " + fibonacci(10));
         
-        // HINT: What happens with this test case?
+        // Fix me: What happens with this test case?
         System.out.println("First 8 Fibonacci numbers:");
         printFibonacciSequence(8);
         
@@ -14,13 +14,13 @@ public class FibonacciChallenge {
     }
     
     public static int fibonacci(int n) {
-        // HINT: Remember, Fibonacci sequence starts with 0, 1, ...
+        // Fix me: Remember, Fibonacci sequence starts with 0, 1, ...
         
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
     
     public static void printFibonacciSequence(int n) {
-        // HINT: Off-by-one error?
+        // Fix me: Off-by-one error?
         for (int i = 1; i <= n; i++) {
             System.out.print(fibonacci(i) + " ");
         }
@@ -28,7 +28,7 @@ public class FibonacciChallenge {
     }
     
     public static int efficientFibonacci(int n) {
-        // HINT: How can you avoid recalculating the same Fibonacci numbers repeatedly?
+        // Fix me: How can you avoid recalculating the same Fibonacci numbers repeatedly?
         int a = 0;
         int b = 1;
         
