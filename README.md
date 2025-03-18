@@ -18,7 +18,7 @@ git checkout -b fix-bug-gitstudenthub-python  # For Python
 ### 3️⃣ Fix the Code
 Open the respective file and resolve the FIXME comments by correcting the Fibonacci series implementation.
 
-*Files to Fix:*
+*Files to Fix:(Any ONE)*
 - main.py (Python)
 - main.c (C)
 - main.cpp (C++)
