@@ -9,19 +9,11 @@ Each file contains an incomplete Fibonacci program with missing parts marked as 
 
 ### 1️⃣ Clone the Repository
 First, clone the GitHub repository to your local system.
-sh
-git clone https://github.com/GitStudentHub/Git2Azure-Final-Task.git
-cd training-repo
-
 
 ### 2️⃣ Create a New Branch
-You must create a new branch before making changes. The branch name should be based on the language you are working with.
+You must create a new branch before making changes. The branch name should be based on the language you are working with.(example given below):
 sh
 git checkout -b fix-bug-gitstudenthub-python  # For Python
-git checkout -b fix-bug-gitstudenthub-c       # For C
-git checkout -b fix-bug-gitstudenthub-cpp     # For C++
-git checkout -b fix-bug-gitstudenthub-java    # For Java
-
 
 ### 3️⃣ Fix the Code
 Open the respective file and resolve the FIXME comments by correcting the Fibonacci series implementation.
@@ -34,16 +26,9 @@ Open the respective file and resolve the FIXME comments by correcting the Fibona
 
 ### 4️⃣ Commit Your Changes
 After fixing the code, stage and commit your changes.
-sh
-git add .
-git commit -m "Fixed Fibonacci function in [language]"
-
 
 ### 5️⃣ Push Your Changes
 Push your branch to GitHub.
-```sh
-git push origin fix-bug-gitstudenthub-[language]
-```
 
 ### 6️⃣ Create a Pull Request (PR)
 - Go to the *GitHub repository* in your browser.
