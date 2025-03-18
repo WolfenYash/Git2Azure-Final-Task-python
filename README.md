@@ -31,14 +31,11 @@ After fixing the code, stage and commit your changes.
 Push your branch to GitHub.
 
 ### 6️⃣ Create a Pull Request (PR)
-- Go to the *GitHub repository* in your browser.
-- Click on *Compare & pull request*.
-- Add a brief message about your fix.
-- Click *Create pull request*.
+
 
 ## ✅ Completion Criteria
 - Your PR should contain a correctly working Fibonacci program.
-- The PR should follow the branch naming convention: fix-bug-gitstudenthub-[language].
+**- The PR should follow the branch naming convention: fix-bug-gitstudenthub-[language].**
 - GitHub Actions will check if your code compiles and runs correctly.
 
 ## 🔥 Good Luck!
